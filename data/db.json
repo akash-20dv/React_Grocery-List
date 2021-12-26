@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 4,
+      "checked": true,
+      "item": "bread"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "cream"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "methi"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "flowchart"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "dhaniya"
+    }
+  ]
+}
