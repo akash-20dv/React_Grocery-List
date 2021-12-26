@@ -1,3 +1,12 @@
+The Project is based on the Grocery List in ReactJS. 
+Features:
+1. Add/Delete Items
+2. Search For the Specific Item
+3. Enter adds the item to the list
+4. Empty List Gets a message
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
